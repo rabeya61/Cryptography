@@ -105,8 +105,6 @@ Where Hash Functions are used?
 
 4.Data-base
 
-Hash Function
-Cryptography
 
 Hash Function
 Cryptography
